@@ -1,5 +1,5 @@
 
-# AlexAnderson
+# Alex Anderson
 - 👋 Hi, I’m Alex Anderson
 - 👀 I’m interested in machine learning, mlOps and mobile app development
 - 🌱 I’m currently learning machine learning and AI
