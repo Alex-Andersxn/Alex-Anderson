@@ -3,4 +3,4 @@
 - 👋 Hi, I’m Alex
 - 👀 I’m interested in machine learning and mobile app development
 - 🌱 I’m currently learning machine learning and AI
-- 📫 How to reach me linkedin: www.linkedin.com/in/alexander-anderson-423391174
+- 📫 How to reach me linkedin: https://www.linkedin.com/in/alexander-anderson98/
